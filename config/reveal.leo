@@ -128,8 +128,10 @@ vertical: body pane on the botton</t>
 
 ### 虎科大機械設計工程系
 
+####40623135洪明棋
+
 &lt;small&gt;
-Created by [KMOLab](http://lab.kmol.info/)
+Created by [洪明棋]
 &lt;/small&gt;
 
 [2018 Fall 分組網誌](./../blog/index.html)
