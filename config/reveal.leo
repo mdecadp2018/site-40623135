@@ -337,7 +337,10 @@ make.start()
     &lt;/script&gt;
 &lt;/section&gt;
 </t>
-<t tx="leo.20181012101019.1">&lt;iframe src="https://youtu.be/HkdhrrvtzbY" width="640" height="492" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+<t tx="leo.20181012101019.1">###Onshape試做
+
+
+&lt;iframe src="https://www.youtube.com/watch?v=HkdhrrvtzbY&amp;feature=youtu.be" width="640" height="492" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
 </t>
 </tnodes>
 </leo_file>
