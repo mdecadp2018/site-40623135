@@ -24,10 +24,13 @@
 <v t="leo.20180827201621.9" a="E"><vh>封面投影片</vh>
 <v t="leo.20180827201621.10"><vh>封面投影片內容</vh></v>
 </v>
+<v t="leo.20181012101000.1" a="E"><vh>Onshape</vh>
+<v t="leo.20181012101019.1"><vh>Onshape試做</vh></v>
+</v>
 <v t="leo.20180827201621.11" a="E"><vh>快捷鍵</vh>
 <v t="leo.20180827201621.12"><vh>投影片快捷鍵</vh></v>
 </v>
-<v t="leo.20180827201621.13"><vh>各式內容引用範例</vh>
+<v t="leo.20180827201621.13" a="E"><vh>各式內容引用範例</vh>
 <v t="leo.20180827201621.14" a="E"><vh>導入數學符號與方程式</vh>
 <v t="leo.20180827201621.15"><vh>LaTeX 格式方程式</vh></v>
 </v>
@@ -128,7 +131,7 @@ vertical: body pane on the botton</t>
 
 ### 虎科大機械設計工程系
 
-####40623135洪明棋
+#### 40623135洪明棋
 
 &lt;small&gt;
 Created by [洪明棋]
@@ -327,6 +330,14 @@ make.start()
 
 
 						
+</t>
+<t tx="leo.20181012101000.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+</t>
+<t tx="leo.20181012101019.1">&lt;iframe src="https://youtu.be/HkdhrrvtzbY" width="640" height="492" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
 </t>
 </tnodes>
 </leo_file>
