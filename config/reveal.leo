@@ -21,25 +21,20 @@
 <v t="leo.20180827201621.5"><vh>head</vh></v>
 <v t="leo.20180827201621.7" a="E"><vh>reveal div</vh>
 <v t="leo.20180827201621.8" a="E"><vh>slides div</vh>
-<v t="leo.20180827201621.9"><vh>封面投影片</vh>
+<v t="leo.20180827201621.9" a="E"><vh>封面投影片</vh>
 <v t="leo.20180827201621.10"><vh>封面投影片內容</vh></v>
 </v>
-<<<<<<< HEAD
 <v t="leo.20181012101000.1" a="E"><vh>Onshape</vh>
-<v t="leo.20181012101019.1"><vh>Onshape試做</vh></v>
-=======
-<v t="leo.20181005104829.1" a="E"><vh>投影片1</vh>
-<v t="leo.20181005104900.1"><vh>封面投影片內容</vh></v>
->>>>>>> 8583190d5f59bff7cdaaab2fb9147416283ece0c
+<v t="leo.20181012110539.1"><vh>newHeadline</vh></v>
 </v>
 <v t="leo.20180827201621.11" a="E"><vh>快捷鍵</vh>
 <v t="leo.20180827201621.12"><vh>投影片快捷鍵</vh></v>
 </v>
 <v t="leo.20180827201621.13" a="E"><vh>各式內容引用範例</vh>
-<v t="leo.20180827201621.14" a="E"><vh>導入數學符號與方程式</vh>
+<v t="leo.20180827201621.14"><vh>導入數學符號與方程式</vh>
 <v t="leo.20180827201621.15"><vh>LaTeX 格式方程式</vh></v>
 </v>
-<v t="leo.20180827201621.16" a="E"><vh>導入縮排程式碼</vh>
+<v t="leo.20180827201621.16"><vh>導入縮排程式碼</vh>
 <v t="leo.20180827201621.17"><vh>引用程式碼</vh></v>
 </v>
 <v t="leo.20180827201621.18" a="E"><vh>導入影片</vh>
@@ -325,30 +320,21 @@ make.start()
 &lt;/section&gt;
 
 
-						
-</t>
-<<<<<<< HEAD
-<t tx="leo.20181012101000.1">&lt;section&gt;
-@others
-&lt;/section&gt;
-</t>
-<t tx="leo.20181012101019.1">###Onshape試做
 
-homework week 1
-
-[week 1 Homework](https://www.youtube.com/watch?v=HkdhrrvtzbY&amp;feature=youtu.be)
 </t>
-=======
-<t tx="leo.20181005104829.1">&lt;section data-markdown&gt;
+<t tx="leo.20181012101000.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 @others
     &lt;/script&gt;
-&lt;/section&gt;
-</t>
-<t tx="leo.20181005104900.1">#MCAD 2a W4網際簡報
+&lt;/section&gt;</t>
+<t tx="leo.20181012110539.1">Onshape試做
 
-*CMSimfly操作
-*Onshape 操作</t>
->>>>>>> 8583190d5f59bff7cdaaab2fb9147416283ece0c
+Homework week 1
+
+[Week 1 homework](https://www.youtube.com/watch?v=HkdhrrvtzbY&amp;feature=youtu.be)
+
+
+
+&lt;iframe src="https://www.youtube.com/watch?v=HkdhrrvtzbY&amp;feature=youtu.b" width="640" height="492" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;</t>
 </tnodes>
 </leo_file>
