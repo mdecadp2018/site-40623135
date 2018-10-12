@@ -17,8 +17,8 @@
 <v t="leo.20180827201621.2" a="E"><vh>@path ./../reveal</vh>
 <v t="leo.20180827201621.3" a="E"><vh>@clean index.html</vh>
 <v t="leo.20180827201621.4" a="E"><vh>html</vh>
-<v t="leo.20180827201621.5"><vh>head</vh></v>
 <v t="leo.20180827201621.6" a="E"><vh>body</vh>
+<v t="leo.20180827201621.5"><vh>head</vh></v>
 <v t="leo.20180827201621.7" a="E"><vh>reveal div</vh>
 <v t="leo.20180827201621.8" a="E"><vh>slides div</vh>
 <v t="leo.20180827201621.9" a="E"><vh>封面投影片</vh>
@@ -339,8 +339,9 @@ make.start()
 </t>
 <t tx="leo.20181012101019.1">###Onshape試做
 
+homework week 1
 
-&lt;iframe src="https://www.youtube.com/watch?v=HkdhrrvtzbY&amp;feature=youtu.be" width="640" height="492" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+[week 1 Homework](https://www.youtube.com/watch?v=HkdhrrvtzbY&amp;feature=youtu.be)
 </t>
 </tnodes>
 </leo_file>
