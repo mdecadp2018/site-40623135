@@ -131,7 +131,7 @@ vertical: body pane on the botton</t>
 
 ### 虎科大機械設計工程系
 
-#### 40623135洪明棋
+### 40623135洪明棋
 
 &lt;small&gt;
 Created by [洪明棋]
