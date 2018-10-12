@@ -21,11 +21,16 @@
 <v t="leo.20180827201621.5"><vh>head</vh></v>
 <v t="leo.20180827201621.7" a="E"><vh>reveal div</vh>
 <v t="leo.20180827201621.8" a="E"><vh>slides div</vh>
-<v t="leo.20180827201621.9" a="E"><vh>封面投影片</vh>
+<v t="leo.20180827201621.9"><vh>封面投影片</vh>
 <v t="leo.20180827201621.10"><vh>封面投影片內容</vh></v>
 </v>
+<<<<<<< HEAD
 <v t="leo.20181012101000.1" a="E"><vh>Onshape</vh>
 <v t="leo.20181012101019.1"><vh>Onshape試做</vh></v>
+=======
+<v t="leo.20181005104829.1" a="E"><vh>投影片1</vh>
+<v t="leo.20181005104900.1"><vh>封面投影片內容</vh></v>
+>>>>>>> 8583190d5f59bff7cdaaab2fb9147416283ece0c
 </v>
 <v t="leo.20180827201621.11" a="E"><vh>快捷鍵</vh>
 <v t="leo.20180827201621.12"><vh>投影片快捷鍵</vh></v>
@@ -322,6 +327,7 @@ make.start()
 
 						
 </t>
+<<<<<<< HEAD
 <t tx="leo.20181012101000.1">&lt;section&gt;
 @others
 &lt;/section&gt;
@@ -332,5 +338,17 @@ homework week 1
 
 [week 1 Homework](https://www.youtube.com/watch?v=HkdhrrvtzbY&amp;feature=youtu.be)
 </t>
+=======
+<t tx="leo.20181005104829.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+</t>
+<t tx="leo.20181005104900.1">#MCAD 2a W4網際簡報
+
+*CMSimfly操作
+*Onshape 操作</t>
+>>>>>>> 8583190d5f59bff7cdaaab2fb9147416283ece0c
 </tnodes>
 </leo_file>
